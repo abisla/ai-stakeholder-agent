@@ -1,0 +1,35 @@
+[Stakeholder: Sarah – Product Manager]
+
+Yeah, so we’ve had a lot of user complaints around the checkout experience. People are dropping off at the last step. Some of them say they’re not sure if the payment went through. Others want to save their card info but can’t. 
+
+[BA: Amar]
+
+Got it. So it’s both trust issues and convenience missing from the flow?
+
+[Stakeholder: Sarah]
+
+Exactly. And also, marketing’s been asking to run A/B tests on the layout—especially button placement and messaging. 
+
+[BA: Amar]
+
+Understood. Any compliance concerns?
+
+[Stakeholder: Sarah]
+
+Yes—finance wants to add two-factor auth for anything over $500 because of fraud alerts last quarter. And receipts should be downloadable—PDF ideally.
+
+[BA: Amar]
+
+Got it. Anything else that affects technical feasibility?
+
+[Stakeholder: Sarah]
+
+Mobile users are also asking for access to their payment history. They want to track spending.
+
+[BA: Amar]
+
+Okay. So to recap: we’re tackling abandonment, clarity, A/B testing needs, security upgrades, and some reporting features for mobile. Did I miss anything?
+
+[Stakeholder: Sarah]
+
+Nope, that’s spot on.
