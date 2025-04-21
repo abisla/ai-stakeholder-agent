@@ -3,7 +3,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-### Built by Amar Bisla — Business Analyst × AI Systems Builder
+### Built by Amar Bisla — Business Analyst × AI Systems Builder 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amar%20Bisla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amar-b-91b8a910a/)
 
 This AI agent converts messy stakeholder conversations into:
 - ✅ High-level business requirements
