@@ -25,7 +25,7 @@ This agent automates that step — turning chaos into Jira-ready user stories, a
 ### 🗣️ Sample Input (Meeting Notes)
 [Stakeholder: Sarah – Product Manager] Yeah, so we've had a lot of user complaints around the checkout experience. People are dropping off at the last step... [BA: Amar] Okay. So to recap: we're tackling abandonment, clarity, A/B testing needs, security upgrades...
 
-## 📄 Sample Output
+## 📄 Sample Output ## 
 
 ```markdown
 **User Story:**  
