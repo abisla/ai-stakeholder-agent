@@ -53,23 +53,23 @@ As a customer, I want to update my payment method after placing an order so I ca
 ```markdown
 ## Run It Locally:
 
-## 1. Install Dependencies ##
+## 1. Install Dependencies 
 pip install openai python-dotenv
 python main.py
 
-## 2. Create .env file ## 
+## 2. Create .env file 
 You'll need to set your OpenAI key in a .env file:
 OPENAI_API_KEY=sk-...
 
-## 3. Check the input files ## 
+## 3. Check the input files 
 prompt.txt → the instructions sent to GPT
 
 sample_input.txt → raw stakeholder input
 
-## 4. Run the main.py file ## 
+## 4. Run the main.py file 
 python main.py
 
-## 5. Check the output for requirements_output.md ##
+## 5. Check the output for requirements_output.md 
 ### Business Requirements:
 1. Improve the user-friendliness of the payment screen.
 2. Speed up the payment process.
